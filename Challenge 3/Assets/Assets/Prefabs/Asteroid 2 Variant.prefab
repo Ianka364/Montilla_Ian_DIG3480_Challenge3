@@ -70,7 +70,7 @@ PrefabInstance:
     - target: {fileID: 6431925421033717637, guid: 278de622ce75b7945900298e7710fa58,
         type: 3}
       propertyPath: m_Name
-      value: Asteroid 2
+      value: Asteroid 2 Variant
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 278de622ce75b7945900298e7710fa58, type: 3}

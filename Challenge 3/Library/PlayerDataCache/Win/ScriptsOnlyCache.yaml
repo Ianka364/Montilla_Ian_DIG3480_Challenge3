@@ -59,33 +59,33 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 9674}
     - Class: 114
-      Script: {instanceID: 9802}
+      Script: {instanceID: 9800}
     - Class: 114
-      Script: {instanceID: 9826}
+      Script: {instanceID: 9824}
     - Class: 114
-      Script: {instanceID: 10112}
+      Script: {instanceID: 10108}
     - Class: 114
-      Script: {instanceID: 10180}
+      Script: {instanceID: 10176}
     - Class: 114
-      Script: {instanceID: 10240}
+      Script: {instanceID: 10236}
     - Class: 114
-      Script: {instanceID: 10834}
+      Script: {instanceID: 10740}
     - Class: 114
-      Script: {instanceID: 10924}
+      Script: {instanceID: 10812}
     - Class: 114
-      Script: {instanceID: 11036}
+      Script: {instanceID: 10830}
     - Class: 114
-      Script: {instanceID: 11128}
+      Script: {instanceID: 10916}
     - Class: 114
-      Script: {instanceID: 11384}
+      Script: {instanceID: 10944}
     - Class: 114
-      Script: {instanceID: 11386}
+      Script: {instanceID: 11030}
     - Class: 114
-      Script: {instanceID: 19562}
+      Script: {instanceID: 11122}
     - Class: 114
-      Script: {instanceID: 29520}
+      Script: {instanceID: 11372}
     - Class: 114
-      Script: {instanceID: 35140}
+      Script: {instanceID: 11374}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -367,6 +367,12 @@ ScriptsOnlyBuild:
     className: VerticalLayoutGroup
   - hash:
       serializedVersion: 2
+      Hash: be2d1663d6bc8ce39ce9c8dea6a963c7
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: BGScroller
+  - hash:
+      serializedVersion: 2
       Hash: 783f593b9380cf72d0f7ebfd4a0d4bcd
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
@@ -409,6 +415,12 @@ ScriptsOnlyBuild:
     className: Physics2DRaycaster
   - hash:
       serializedVersion: 2
+      Hash: de7d6a5820dded6c7f75780e98f1dc41
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: WeaponController
+  - hash:
+      serializedVersion: 2
       Hash: afc5b93a7b192de2dcb3832fe35a5c7e
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
@@ -431,6 +443,12 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: Readme
+  - hash:
+      serializedVersion: 2
+      Hash: 757d56d0910fdc18d03e5b801da35a3f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: EvasiveManeuver
   - hash:
       serializedVersion: 2
       Hash: 3b760e6526e13f7504f59e210145899a
@@ -569,25 +587,8 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
-  - hash:
-      serializedVersion: 2
-      Hash: be2d1663d6bc8ce39ce9c8dea6a963c7
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: BGScroller
-  - hash:
-      serializedVersion: 2
-      Hash: de7d6a5820dded6c7f75780e98f1dc41
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: WeaponController
-  - hash:
-      serializedVersion: 2
-      Hash: 757d56d0910fdc18d03e5b801da35a3f
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: EvasiveManeuver
   platform: 5
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: C:/Users/ianfm/Desktop/Tutorial 3/Builds/Tutorial 3.exe
+  playerPath: C:/Users/ianfm/Desktop/Challenge 3/Builds/Montilla_Ian_DIG3480_Challenge3/Tutorial
+    3.exe
